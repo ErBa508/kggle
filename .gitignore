@@ -1,13 +1,15 @@
 RStudio.png
-/Titanic/.ipynb_checkpoints
 /SFcrime
 /Otto
 /LEAP project
 /hrc_emails
-/cooking
+/dept_education
+/Titanic/.ipynb_checkpoints
+/Titanic/cmd_shortcut_generic.lnk
+/cooking/.ipynb_checkpoints
+/cooking/cmd_shortcut_generic.lnk
 __pycache__
 cmd_shortcut_generic.lnk
-/Titanic/cmd_shortcut_generic.lnk
 lib_preproc.py
 main.py
 Testing.ipynb
