@@ -8,6 +8,7 @@ RStudio.png
 /Titanic/cmd_shortcut_generic.lnk
 /Titanic/To-do.txt
 /Titanic/submission.csv
+/Titanic/*.csv
 /cooking/.ipynb_checkpoints
 /cooking/cmd_shortcut_generic.lnk
 __pycache__
