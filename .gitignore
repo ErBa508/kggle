@@ -11,6 +11,8 @@ RStudio.png
 /Titanic/*.csv
 /cooking/.ipynb_checkpoints
 /cooking/cmd_shortcut_generic.lnk
+/cooking/*.txt
+/cooking/*.csv
 __pycache__
 cmd_shortcut_generic.lnk
 lib_preproc.py
